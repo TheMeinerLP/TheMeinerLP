@@ -2,8 +2,8 @@
 <h3 align="center">A Java Application Developer from Germany</h3>
 
 I’m looking to collaborate on:
-<h4 align="center><a href="https://github.com/CloudNetService"><img src="https://avatars3.githubusercontent.com/u/39465435?s=200&v=4" height="40" width="40"/></a></h4>
-<h4 align="center><a href="https://github.com/TheMadfixLab"><img src="https://avatars0.githubusercontent.com/u/67312600?s=200&v=4" height="40" width="40"/></a></h4>
+<h4 align="center><a href="https://github.com/CloudNetService">CloudNET <img src="https://avatars3.githubusercontent.com/u/39465435?s=200&v=4" height="40" width="40"/></a></h4>
+<h4 align="center><a href="https://github.com/TheMadfixLab">TheMadfixLab<img src="https://avatars0.githubusercontent.com/u/67312600?s=200&v=4" height="40" width="40"/></a></h4>
 <!--
 **TheMeinerLP/TheMeinerLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
