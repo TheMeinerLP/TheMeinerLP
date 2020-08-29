@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm TheMeinerLP</h1>
+<h3 align="center">A Java Application Developer from Germany</h3>
+
 
 <!--
 **TheMeinerLP/TheMeinerLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
