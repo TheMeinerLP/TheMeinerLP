@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm TheMeinerLP</h1>
-<h3 align="center">A Java Application Developer from Germany</h3>
+<h3 align="center">A Application Developer from Germany working it on <a href="https://github.com/feilfeilundfeil">@FeilFeilUndFeil</a></h3>
+Experience in:
+<ul>
+  <li>Java/Kotlin</li>
+  <li>C#</li>
+  <li>Dart/Flutter</li>
+  <li>Angular/Typescript</li>
+  <li>Kubernetes</li>
+  <li>Unix</li>
+  <li>PFSense, VMware, Windows Domain Administartion</li>
+</ul>
 
-I’m looking to collaborate on:
-<h4 align="center><a href="https://github.com/CloudNetService">CloudNET <img src="https://avatars3.githubusercontent.com/u/39465435?s=200&v=4" height="40" width="40"/></a></h4>
-<h4 align="center><a href="https://github.com/TheMadfixLab" style="text-align: center; vertical-align: middle;">TheMadfixLab<img src="https://avatars0.githubusercontent.com/u/67312600?s=200&v=4" height="40" width="40"/></a></h4>
+
+<!--I’m looking to collaborate on:-->
+
 <!--
 **TheMeinerLP/TheMeinerLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
