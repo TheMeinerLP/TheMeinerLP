@@ -8,7 +8,7 @@ Experience in:
   <li>Angular/Typescript</li>
   <li>Kubernetes</li>
   <li>Unix</li>
-  <li>PFSense, VMware, Windows Domain Administartion</li>
+  <li>PFSense, VMware, Windows Domain Administrator</li>
 </ul>
 
 
