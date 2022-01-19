@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TheMeinerLP</h1>
+<h1 align="center">Hi 👋, I'm Phillipp</h1>
 <h3 align="center">A Application Developer from Germany working it on <a href="https://github.com/feilfeilundfeil">@FeilFeilUndFeil</a></h3>
 Experience in:
 <ul>
