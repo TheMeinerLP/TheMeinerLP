@@ -2787,7 +2787,7 @@ Merge translations, validation and version bump into task edit</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.221423682409316 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.263860369609844 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3529,7 +3529,7 @@ Merge translations, validation and version bump into task edit</div>
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">a2c4217f</span>
-                            <span class="code">lib/i18n/strings.i18n.json</span>
+                            <span class="code">lib/i18n/strings_de.i18n.json</span>
                             <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3544,7 +3544,7 @@ Merge translations, validation and version bump into task edit</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2022, 08:08:10 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 11 Apr 2022, 09:04:12 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
