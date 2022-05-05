@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WorldQL/mammoth</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scale a single world horizontally across multiple Minecraft servers.</div>
@@ -3148,7 +3148,7 @@ Change inheritance from Event to PlayerEvent</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 519k out of 90m users</span>
+                                    <span class="gh">ranked 520k out of 90m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -3480,7 +3480,7 @@ Change inheritance from Event to PlayerEvent</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2022, 10:08:31 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 5 May 2022, 11:04:03 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
