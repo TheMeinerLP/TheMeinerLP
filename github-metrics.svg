@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Col-E/Recaf</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The modern Java bytecode editor</div>
@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WorldQL/mammoth</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scale a single world horizontally across multiple Minecraft servers.</div>
@@ -3501,7 +3501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2022, 10:07:26 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 11:03:16 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
