@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubevious/kubevious</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubevious - Kubernetes without disasters</div>
@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loft-sh/devspace</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/kompose</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go from Docker Compose to Kubernetes</div>
@@ -2535,7 +2535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elastic/cloud-on-k8s</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Elastic Cloud on Kubernetes</div>
@@ -3488,7 +3488,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2022, 18:05:49 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Jun 2022, 19:03:16 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
