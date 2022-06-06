@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubevious/kubevious</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubevious - Kubernetes without disasters</div>
@@ -2399,7 +2399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loft-sh/devspace</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.</div>
@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/kompose</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go from Docker Compose to Kubernetes</div>
@@ -2505,7 +2505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elastic/cloud-on-k8s</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Elastic Cloud on Kubernetes</div>
@@ -2679,7 +2679,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API returned 401</div>
+                        <div class="field error">API returned undefined</div>
                     </section>
                 </div>
             </section>
@@ -3458,7 +3458,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2022, 02:26:37 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 04:48:19 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
