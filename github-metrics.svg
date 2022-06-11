@@ -2377,7 +2377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>InfernalSuite/InfernalWorldManager</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2425,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PureGero/MultiPaper</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-server, single-world papermc implementation</div>
@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NLthijs48/ErrorSink</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spigot plugin to send all warnings and errors to Sentry.io</div>
@@ -3492,7 +3492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 10:07:07 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 11:02:27 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
