@@ -3508,7 +3508,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 12 Jun 2022, 14:10:08
+                            On 12 Jun 2022, 02:23:05
                         </div>
                     </section>
                 </div>
@@ -3518,29 +3518,31 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Improve qr code handler
+                            Update node/src/main/resources/lang/en_US.properties
+
+Co-authored-by: Aldin &lt;aldin@sijamhodzic.de&gt;
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a5f4d630</span>
-                            <span class="code">modules/rest/src/main/java/eu/cloudnetservice/modules/rest/v2/V2HttpHandlerQRCode.java</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
+                            <span class="code">e38870aa</span>
+                            <span class="code">node/src/main/resources/lang/en_US.properties</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -41,9 +41,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">var appSchema = request.queryParameters().containsKey("appSchema");<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">QRCodeBuilder codeBuilder = QRCodeBuilder.builder().externalUrls().withName();<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">QRCodeBuilder codeBuilder = QRCodeBuilder.builder().externalUrls().withNodeName();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">if (appSchema) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  codeBuilder.withAppSchema();<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  codeBuilder.withAppSchema(true);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line">if (request.queryParameters().containsKey("session")) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  var sessionValue = RestUtil.first(request.queryParameters().get("session"));</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -380,7 +380,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">module-rest-qrcode-info=The QR code is generated for the following url:<br /></span><span class="token prefix unchanged">·</span><span class="token line">module-rest-qrcode-login-info=The QR code is generated for the following url with login token:<br /></span><span class="token prefix unchanged">·</span><span class="token line">module-rest-qrcode-login-failed=Your given username or password is wrong or does not exist<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">command-http-setup-question-reverseProxy=Is the Reset API behind a reverse proxy?<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">command-http-setup-question-reverseProxy=Is the REST API behind a reverse proxy?<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">command-http-setup-question-hostAndPort=What is the host and port of the Rest API?<br /></span><span class="token prefix unchanged">·</span><span class="token line">command-http-setup-question-domain=What is the domain of the Rest API?<br /></span><span class="token prefix unchanged">·</span><span class="token line">command-http-setup-question-ssl=Is the Rest API using ssl?</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 05:02:37 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 06:39:13 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
