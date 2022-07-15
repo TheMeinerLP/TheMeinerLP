@@ -2425,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GloriousEggroll/proton-ge-custom</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compatibility tool for Steam Play based on Wine and additional components</div>
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinecraftForge/gitpatcher</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Gradle plugin to manage patches for Git repositories</div>
@@ -3528,7 +3528,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2022, 12:05:53 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 13:02:18 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
