@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javamachr/sonar-gitlab-plugin</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Add to each commit GitLab in a global commentary on the new anomalies added by this commit and add comment lines of modified files</div>
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GloriousEggroll/proton-ge-custom</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compatibility tool for Steam Play based on Wine and additional components</div>
@@ -3498,7 +3498,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 12:04:17 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 13:02:42 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
