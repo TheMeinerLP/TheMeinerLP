@@ -2377,10 +2377,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>EmortalMC/TNT</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">TNT is a world format</div>
+                                <div class="field description">TNT is an experimental world format for Minestom</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3508,7 +3508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 00:02:49 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 01:03:41 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
