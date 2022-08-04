@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hsnyder/radeonload</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of RadeonTop, displays data in a (continuous) text table rather than a curses UI.</div>
@@ -3496,7 +3496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2022, 22:06:59 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 23:03:13 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
