@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javamachr/sonar-gitlab-plugin</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Add to each commit GitLab in a global commentary on the new anomalies added by this commit and add comment lines of modified files</div>
@@ -3620,7 +3620,7 @@ Date:   Sun Jul 31 11:21:08 2022 +0200
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2022, 12:03:28 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 13:02:17 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
