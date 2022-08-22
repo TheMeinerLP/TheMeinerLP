@@ -2356,7 +2356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-server</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image that provides a Minecraft Server that will automatically download selected version at startup</div>
@@ -2409,7 +2409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SonarSource/sonarqube</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Continuous Inspection</div>
@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mc1arke/sonarqube-community-branch-plugin</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube</div>
@@ -3642,7 +3642,7 @@ This reverts commit fb9b6689f245a07fd94015fa3f30a94f99f2427a.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2022, 12:04:09 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 13:03:11 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
