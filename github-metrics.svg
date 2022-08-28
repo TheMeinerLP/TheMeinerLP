@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BlueMap-Minecraft/BlueMap</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.</div>
@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacklanternsecurity/bbot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OSINT automation for hackers.</div>
@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>karanpratapsingh/system-design</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learn how to design systems at scale and prepare for system design interviews</div>
@@ -2821,7 +2821,7 @@ This reverts commit fb9b6689f245a07fd94015fa3f30a94f99f2427a.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.75462012320328 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.797056810403845 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2986,7 +2986,7 @@ This reverts commit fb9b6689f245a07fd94015fa3f30a94f99f2427a.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.42m out of 96m users</span>
+                                    <span class="gh">ranked 1.42m out of 97m users</span>
                                 </div>
                                 <div class="text">Published 26 public repositories</div>
                             </div>
@@ -3245,7 +3245,7 @@ This reverts commit fb9b6689f245a07fd94015fa3f30a94f99f2427a.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 473k out of 96m users</span>
+                                    <span class="gh">ranked 473k out of 97m users</span>
                                 </div>
                                 <div class="text">Followed by 20 users</div>
                             </div>
@@ -3577,7 +3577,7 @@ This reverts commit fb9b6689f245a07fd94015fa3f30a94f99f2427a.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2022, 08:07:29 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 09:02:50 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
