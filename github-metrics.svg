@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubealex/k8s-mediaserver-operator</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for k8s Mediaserver Operator project</div>
@@ -2406,7 +2406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LogNet/grpc-spring-boot-starter</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spring Boot starter module for gRPC  framework.</div>
@@ -2512,7 +2512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BlueMap-Minecraft/BlueMap</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.</div>
@@ -3465,7 +3465,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 10:08:55 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 11:07:09 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
