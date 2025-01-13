@@ -2425,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glmcdona/strings2</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">strings2: An improved strings extraction tool.</div>
@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glowyphp/strings</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.</div>
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OJ/gobuster</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Directory/File, DNS and VHost busting tool written in Go</div>
@@ -2694,7 +2694,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2025, 17:01:13 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2025, 18:01:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
